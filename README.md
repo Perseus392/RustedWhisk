@@ -1,2 +1,2 @@
 # RustyWhisk
-Scratchpad for Workflow Composer's Openwhisk module
+Implementation of an Openwhisk Library for Rust
